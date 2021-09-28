@@ -7,5 +7,5 @@ Natural Language Processing modelling with dataset from https://www.kaggle.com/c
 
 [Link to Kaggle notebook](https://www.kaggle.com/theoleung/toxic-comment-classification-with-glove-embeddings/notebook)
 
-## Results
+## Table of Results
 ![results cell](screenshots/rnn_results.png)
